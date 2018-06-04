@@ -11,11 +11,16 @@ You are first promted to supply the polygon file. If this is successful, you are
 
 
 The code determines if a point is positioned:
-1)Outside of a bounding box (as determined by the minimum and maximum polygon coordinates supplied by the user .csv file).
-2)Outside the polygon (but in this case, inside the bounding box).
-3)On the boundary of the polygon.
-4)On the vertices of the polygon (angular point of the polygon).
-5)Inside the polygon.
+
+1) Outside of a bounding box (as determined by the minimum and maximum polygon coordinates supplied by the user .csv file).
+
+2) Outside the polygon (but in this case, inside the bounding box).
+
+3) On the boundary of the polygon.
+
+4) On the vertices of the polygon (angular point of the polygon).
+
+5) Inside the polygon.
 
 Relevant documentation and sources are commented throughout.
 

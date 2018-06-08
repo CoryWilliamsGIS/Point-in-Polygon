@@ -22,7 +22,10 @@ The code determines if a point is positioned:
 
 5) Inside the polygon.
 
-Relevant documentation and sources are commented throughout.
+An example visual output can be seen below:
+
+![pip](https://user-images.githubusercontent.com/35572803/41153292-3726d726-6b0e-11e8-9640-fb767fdb1355.png)
+
 
 ### Additional Notes
 Please ensure the polygon and point file are entered in the correct order.
